@@ -1,0 +1,1 @@
+!function(){"use strict";var e=window.wp.element;window.React;(0,e.render)((0,e.createElement)((()=>{let t=new Date,n=t.getFullYear()+"-"+(t.getMonth()+1)+"-"+t.getDate()+" "+t.getHours()+":"+t.getMinutes()+":"+t.getSeconds();return(0,e.createElement)("div",null,(0,e.createElement)("h4",null,n))}),null),document.getElementById("reactwordpress"))}();
